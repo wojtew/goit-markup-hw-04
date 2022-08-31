@@ -325,7 +325,7 @@ h2 {
 	border-radius: 4px;
 	border: 0;
 	cursor: pointer;
-	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	
 }
 .filter:hover,
 .filter:focus,
@@ -333,6 +333,7 @@ h2 {
 	background: #2196f3;
 	border-radius: 4px;
 	color: #ffffff;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .filter-pos {
 	display: flex;
